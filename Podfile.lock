@@ -1,0 +1,24 @@
+PODS:
+  - WCDB.swift (1.0.0):
+    - WCDB.swift/sqlcipher (= 1.0.0)
+  - WCDB.swift/sqlcipher (1.0.0)
+
+DEPENDENCIES:
+  - WCDB.swift (from `https://github.com/Tencent/wcdb.git`, branch `dev`)
+
+EXTERNAL SOURCES:
+  WCDB.swift:
+    :branch: dev
+    :git: https://github.com/Tencent/wcdb.git
+
+CHECKOUT OPTIONS:
+  WCDB.swift:
+    :commit: 78ffa9cdd24881281130b2d1af546b8a561e7262
+    :git: https://github.com/Tencent/wcdb.git
+
+SPEC CHECKSUMS:
+  WCDB.swift: 5916c14ecc2819663211e16dd6c7c75e9bc3b076
+
+PODFILE CHECKSUM: 7808e4a9d0f44b3f39de9d27b1cd72a8707e9379
+
+COCOAPODS: 1.2.1.beta.1
